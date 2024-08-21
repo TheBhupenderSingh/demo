@@ -17,7 +17,7 @@ import com.example.demo.security.toService;
 
 
 
-@CrossOrigin( origins = "http://localhost:3000")
+@CrossOrigin( origins = "https://book-issh-855e5b.netlify.app")
 @RestController
 
 public class ToController {
