@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class Restc {
 	@RequestMapping("/test")
 	public String getAllTo(){
-		return "Balle Balle";
+		return "Just Checking";
 
 }
 }
